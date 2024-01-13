@@ -1,7 +1,7 @@
-import pyttsx3
+# import pyttsx3
 import streamlit as st
 from gemini_pro import gemini_pro_text
-from speechrecognition import record_and_convert_to_text
+# from speechrecognition import record_and_convert_to_text
 
 
 
